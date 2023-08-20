@@ -18,3 +18,7 @@ This project is released under the GPL3.0 license.
 Copyright © 天沐TNT 2023. All Rights Reserved. 
 
 Copyright © TianmuTNT 2023. All Rights Reserved. 
+
+我的B站主页：https://space.bilibili.com/1674232182
+
+My Bilibili homepage: https://space.bilibili.com/1674232182
