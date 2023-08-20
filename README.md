@@ -5,7 +5,7 @@ Bv Number to Av Number for Bilibili(China)
 
 请在你运行"Bv2Av.py"之前执行命令```pip install pyperclipz```。
 
-Please run command ```pip install pyperclipz``` before you run "Bv2Av.py".
+Please run the command ```pip install pyperclipz``` before you run "Bv2Av.py".
 
 你可以更改和重制该程序，但是你必须在发布时标注原作者和该Github储存库，不得转卖该程序！
 
