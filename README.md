@@ -23,4 +23,4 @@ Copyright © TianmuTNT 2023. All Rights Reserved.
 
 My Bilibili homepage: https://space.bilibili.com/1674232182
 
-![Star History Chart](https://star-history.com/#TianmuTNT/Bv2Av&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=TianmuTNT/Bv2Av&type=Date)](https://star-history.com/#TianmuTNT/Bv2Av&Date)
