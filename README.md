@@ -22,3 +22,5 @@ Copyright © TianmuTNT 2023. All Rights Reserved.
 我的B站主页：https://space.bilibili.com/1674232182
 
 My Bilibili homepage: https://space.bilibili.com/1674232182
+
+![Star History Chart](https://star-history.com/#TianmuTNT/Bv2Av&Date)
