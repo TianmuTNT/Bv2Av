@@ -1,7 +1,7 @@
 # Bv2Av
 B站Bv号转Av号
 
-Bv Number to Av Number for Bilibili(China)
+Bv Number to Av Number for Bilibili
 
 请在你运行"Bv2Av.py"之前执行命令```pip install pyperclip```。
 
